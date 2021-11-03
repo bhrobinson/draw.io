@@ -1,1 +1,108 @@
-<mxfile host="Electron" modified="2021-11-01T22:06:42.192Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/15.4.0 Chrome/91.0.4472.164 Electron/13.5.0 Safari/537.36" etag="aMU6BOWVK427fAIhKElK" version="15.4.0" type="device" pages="2"><diagram id="WGLj5hRC0gGVtmgglTK7" name="Page-1">3Zhdk5owFIZ/jZedIYCsXrZW7XT6MV26szO9i3AWshs4NATR/voGCSJmu9KZumJvFN4cDHnynuOBkTNLNktBs/gzhsBHthVuRs77kW0Td+Kpr0rZ1ornTWshEizUQa3gs1+gRUurBQsh7wRKRC5Z1hUDTFMIZEejQmDZDXtA3p01oxEYgh9Qbqr3LJRxrU7GVqt/ABbFzczE0iMJbYK1kMc0xPJAcuYjZyYQZX2UbGbAK3gNl/q6xR9G9zcmIJV9Lgjo3Vu5+Hbrzn/c2QkNH1N/84aM659ZU17oFeu7ldsGAYSKiD5FIWOMMKV83qrvBBZpCNU8ljprYz4hZkokSnwEKbd6e2khUUmxTLgeNdeil5djIQJ4aQHaE1REIF+I0+us1nIwgSa1BExAiq0KEMCpZOvu7lNtomgf13JWBxr132A3qC9QJErxi1XC8pxham4D58r0Fe4yZhL8jO7AlCrvesJcg5CweXH5zWhj2iZr9WnZpsA+JD6w/8Q6EzDbAPaRCaqUmQC1X8/gUumWVYeZwADy/DS2FQ2eop2TvxaSsxTOh3PP6RRP71w8iXvlee/0zHviDCrxHdPHeWVeK7gGH7vTro/JzaV93MPGQwJ4XAhc69IAb668Dox71gF7UGWAmA3A/4l9OijsZrPrS5qGVIRK/Q5Jpm5CDSyMvRAxJquiR+34FzXCPSqyzzRfk9fsvSanvdp14vkZOd5RHb34HxExO9Tryuhpz4weVj81NajvHgigepT6oj5u4eflzUqG1jURsw1dMsnpSmn3KJ4eOJYGtiH1Ud4rNqLqtH1Jsxs7eNXlzH8D</diagram><diagram id="5-2gyrLXOSFlZcdKZ91q" name="Json Creation">5VnbctowEP0aHun4AoY8JjS3TjpNSpt0+tIR9iKrlSWPLNuQr69kyxgikpC2iUvyZPlo0WXPnl1L9PxJsjgVKI0/8ghoz3OiRc9/3/M813UC9dDI0iCO49cIFiQyWAtMyS00hgbNSQTZhqHknEqSboIhZwxCuYEhIXi5aTbndHPWFGGwgGmIqI3ekEjGNToeOi1+BgTHcrVj05OgxtgAWYwiXq5B/nHPnwjOZd1KFhOg2nuNX24H4yvq+t8+nIX4aj4vSn8+69eDnTzlJ6stCGDy3w49qocuEM2Nv8xe5bJxIETKn+aVCxlzzBmixy16JHjOItDTOOqttbngPFWgq8CfIOXSBAfKJVdQLBNqeus59UR3OHtkw8Yu47kI4QE7symJBIaHxhusWFV6AJ6AFEv1OwEUSVJsLg6ZuMQru9b3qmHc/wQqPIuKC44ihVxrJNOxL3iiHhPO5sSmiVIlKU1HGRMJ0xRVLimVrLc5uwAhYfEH7rbd04wSGJ2YTDEyr2WrOreRUrymuLHz9w6NnP7lyWlx7gZkeU2H332X3fTHbyK2BzvG9rDL2B5YVEzVYj2HoQR6XkDVwo9mQrWwbtV9lzr/Wn3nbKYZUf2Hue535DIFi9dN1v4TQXjOjooInksRB29CEUNbEVu9MepSEUOLigjmhKlQdmYo/AU6xO/GPuWhWhlnyobPtSdKhDEI23BP9HDQtR7cN6GHYEc9ONvZexk9BBYVKMsI1rH+9fN5pYoMdNqvwn+WZ0orWVYdJlJOOdYrRVVdyEAUJNxSVvZDFYNdv5ueTRV2sd5zVdwf7TuownshVTy0yDUqRF6l/xRYltHq2JwkddzXwmhqRyUDXRuUQPTxXU1fmav43Q8dDIOudWCX6Neogy1n4612fpc6sM/Gp8BAIKm/l1BK3oX6TIztnI9bM2BF/z6z/ZBEMOxaEr7Fg84/RDZp5nBRouUPVZBJSPSVRYAS7Ss2y9LKT3f9PhOIhXFV1yMo9oOF0aBrFly7LLzGzDSyM9P9n45dZSb7AvVoVYLNDcWXbTcUWYxS3UwFD/WH7KPhrSs7rjj7lEuqT4ovG/b++PnCXr221+hV39q/Ef7xbw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-03T17:18:57.769Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50" etag="_aghRvBoYeXoFv-WsxlL" version="15.6.6" type="github" pages="2">
+  <diagram id="WGLj5hRC0gGVtmgglTK7" name="Page-1">
+    <mxGraphModel dx="1426" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="caUAtFQR4EZU2madjnSx-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="caUAtFQR4EZU2madjnSx-1" target="caUAtFQR4EZU2madjnSx-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="caUAtFQR4EZU2madjnSx-1" value="Go App submission" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="caUAtFQR4EZU2madjnSx-2" value="Jira Creation" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="caUAtFQR4EZU2madjnSx-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="caUAtFQR4EZU2madjnSx-3" target="caUAtFQR4EZU2madjnSx-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="caUAtFQR4EZU2madjnSx-3" value="Json creation" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="caUAtFQR4EZU2madjnSx-4" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="caUAtFQR4EZU2madjnSx-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="caUAtFQR4EZU2madjnSx-5" target="caUAtFQR4EZU2madjnSx-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="caUAtFQR4EZU2madjnSx-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="caUAtFQR4EZU2madjnSx-5" target="caUAtFQR4EZU2madjnSx-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="caUAtFQR4EZU2madjnSx-5" value="Standard Template?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="caUAtFQR4EZU2madjnSx-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="caUAtFQR4EZU2madjnSx-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="caUAtFQR4EZU2madjnSx-9" target="caUAtFQR4EZU2madjnSx-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="caUAtFQR4EZU2madjnSx-9" value="Create SN Req" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="caUAtFQR4EZU2madjnSx-13" value="Gitlab Workflow" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0aMbx-ErIeKymPqQQrBj-1" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="180" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0aMbx-ErIeKymPqQQrBj-2" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175" y="250" width="30" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5-2gyrLXOSFlZcdKZ91q" name="Json Creation">
+    <mxGraphModel dx="1426" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="z48Ql13XJHcgQffvw3fb-0" />
+        <mxCell id="z48Ql13XJHcgQffvw3fb-1" parent="z48Ql13XJHcgQffvw3fb-0" />
+        <mxCell id="z48Ql13XJHcgQffvw3fb-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="z48Ql13XJHcgQffvw3fb-1" source="z48Ql13XJHcgQffvw3fb-2" target="z48Ql13XJHcgQffvw3fb-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z48Ql13XJHcgQffvw3fb-2" value="recieve json to customer" style="ellipse;whiteSpace=wrap;html=1;" parent="z48Ql13XJHcgQffvw3fb-1" vertex="1">
+          <mxGeometry x="160" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d0-PFGvI16iyVl5Z31nW-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="z48Ql13XJHcgQffvw3fb-1" source="z48Ql13XJHcgQffvw3fb-4" target="z48Ql13XJHcgQffvw3fb-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z48Ql13XJHcgQffvw3fb-4" value="Set name&lt;br&gt;Set Path&lt;br&gt;Inbound Auth type" style="rounded=0;whiteSpace=wrap;html=1;" parent="z48Ql13XJHcgQffvw3fb-1" vertex="1">
+          <mxGeometry x="160" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0-PFGvI16iyVl5Z31nW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="z48Ql13XJHcgQffvw3fb-1" source="z48Ql13XJHcgQffvw3fb-5" target="d0-PFGvI16iyVl5Z31nW-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z48Ql13XJHcgQffvw3fb-5" value="define backend&lt;br&gt;location of swagger&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="z48Ql13XJHcgQffvw3fb-1" vertex="1">
+          <mxGeometry x="160" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0-PFGvI16iyVl5Z31nW-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="z48Ql13XJHcgQffvw3fb-1" source="z48Ql13XJHcgQffvw3fb-6" target="d0-PFGvI16iyVl5Z31nW-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z48Ql13XJHcgQffvw3fb-6" value="assign URI based on business topology and service&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="z48Ql13XJHcgQffvw3fb-1" vertex="1">
+          <mxGeometry x="160" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0-PFGvI16iyVl5Z31nW-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="z48Ql13XJHcgQffvw3fb-1" source="d0-PFGvI16iyVl5Z31nW-0" target="d0-PFGvI16iyVl5Z31nW-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0-PFGvI16iyVl5Z31nW-0" value="Run Go app to bring in certs" style="rounded=0;whiteSpace=wrap;html=1;" parent="z48Ql13XJHcgQffvw3fb-1" vertex="1">
+          <mxGeometry x="160" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0-PFGvI16iyVl5Z31nW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="z48Ql13XJHcgQffvw3fb-1" source="d0-PFGvI16iyVl5Z31nW-2" target="d0-PFGvI16iyVl5Z31nW-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0-PFGvI16iyVl5Z31nW-2" value="Generate api.config&lt;br&gt;generate env-config&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="z48Ql13XJHcgQffvw3fb-1" vertex="1">
+          <mxGeometry x="160" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0-PFGvI16iyVl5Z31nW-3" value="commit to Axway_policies&amp;nbsp;&lt;br&gt;branched dev" style="rounded=0;whiteSpace=wrap;html=1;" parent="z48Ql13XJHcgQffvw3fb-1" vertex="1">
+          <mxGeometry x="160" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0-PFGvI16iyVl5Z31nW-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="z48Ql13XJHcgQffvw3fb-1" source="d0-PFGvI16iyVl5Z31nW-7" target="z48Ql13XJHcgQffvw3fb-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0-PFGvI16iyVl5Z31nW-7" value="Backend Auth Type" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="z48Ql13XJHcgQffvw3fb-1" vertex="1">
+          <mxGeometry x="160" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
