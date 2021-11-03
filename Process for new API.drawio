@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-03T17:42:42.642Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50" etag="x-u0XAkNWVaeoxEwts7q" version="15.6.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-11-03T17:55:13.725Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50" etag="WKAtF9ZM0dJIO3vWSIWP" version="15.6.6" type="github" pages="4">
   <diagram id="WGLj5hRC0gGVtmgglTK7" name="Submission form">
     <mxGraphModel dx="1426" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -78,7 +78,7 @@
         <mxCell id="d0-PFGvI16iyVl5Z31nW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="z48Ql13XJHcgQffvw3fb-1" source="d0-PFGvI16iyVl5Z31nW-2" target="d0-PFGvI16iyVl5Z31nW-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d0-PFGvI16iyVl5Z31nW-2" value="Generate api.config&lt;br&gt;generate env-config&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="z48Ql13XJHcgQffvw3fb-1" vertex="1">
+        <mxCell id="d0-PFGvI16iyVl5Z31nW-2" value="generate env-config" style="rounded=0;whiteSpace=wrap;html=1;" parent="z48Ql13XJHcgQffvw3fb-1" vertex="1">
           <mxGeometry x="160" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d0-PFGvI16iyVl5Z31nW-3" value="commit to Axway_policies&amp;nbsp;&lt;br&gt;branched dev" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" parent="z48Ql13XJHcgQffvw3fb-1" vertex="1">
